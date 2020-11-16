@@ -1,0 +1,17 @@
+/*=========================================================================================
+    File Name: vxList.scss
+    Description: Styles for vx-list component. Imported in VxList.vue file
+    ----------------------------------------------------------------------------------------
+    Item Name: Syntha
+      Author: Christopher Breland
+    Author Email: SeaBreez7890@gmail.com
+==========================================================================================*/
+
+
+.list {
+    .list__item {
+        display: flex;
+        padding: .4rem;
+        align-items: flex-start;
+    }
+}
