@@ -16,3 +16,6 @@ yarn-error.log
 vuexy-shell-scripts
 .env
 .env.production
+public/
+src/assets/images/logo/
+
